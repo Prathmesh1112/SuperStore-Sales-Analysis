@@ -31,49 +31,53 @@ The Super Store Sales Analysis Dashboard is an interactive Power BI project desi
 🎛️ Dynamic Filters (Customer ID, Customer Name, Month, Year)
 
 
+
 📊 Dashboard KPIs :- 
 
-Total Sales : 2.3M
+1) Total Sales : 2.3M
 
-Total Quantity : 39K
+2) Total Quantity : 39K
 
-Total Discount : 10K
+3) Total Discount : 10K
 
-Average Delivery Days : 4
+4) Average Delivery Days : 4
+   
 
 
 📈 Visualizations :-
 
-1)KPI Cards
+1) KPI Cards
 
-2)Sales by State
+2) Sales by State
 
-3)Sales by Region
+3) Sales by Region
 
-4)Profit by City (Map)
+4) Profit by City (Map)
 
-5)Top 5 Products
+5) Top 5 Products
 
-6)Bottom 5 Products
+6) Bottom 5 Products
 
-7)Category-wise Sales (Pie Chart)
+7) Category-wise Sales (Pie Chart)
 
-8)Segment-wise Sales (Pie Chart)
+8) Segment-wise Sales (Pie Chart)
 
-9)Interactive Slicers 
+9) Interactive Slicers
+    
 
 
 🛠️ Technologies Used :-
 
-1)Microsoft Power BI
+1) Microsoft Power BI
 
-2)Power Query
+2) Power Query
 
-3)DAX (Data Analysis Expressions)
+3) DAX (Data Analysis Expressions)
 
-4)Data Modeling
+4) Data Modeling
 
-5)Excel Dataset
+5) Excel Dataset
+   
 
 
 🎯 Business Objectives :-
@@ -94,6 +98,7 @@ Analyze profit distribution across cities.
 Support business decisions using interactive dashboards.
 
 
+
 💡 Key Insights :-
 
 
@@ -106,6 +111,7 @@ Consumer was the highest-performing customer segment.
 The dashboard highlights the Top 5 and Bottom 5 products based on sales.
 
 Interactive filters allow analysis by customer, month, and year.
+
 
 
 📂 Skills Demonstrated :-
