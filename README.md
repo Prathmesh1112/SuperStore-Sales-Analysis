@@ -4,7 +4,8 @@
 
 The Super Store Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales performance, customer behavior, product categories, regional trends, and business profitability. The dashboard transforms raw sales data into meaningful insights through interactive visualizations and KPIs, helping stakeholders make informed business decisions.
 
-🚀 Key Features
+🚀 Key Features :-
+
 💰 Total Sales Analysis
 
 📦 Total Quantity Sold
@@ -29,7 +30,8 @@ The Super Store Sales Analysis Dashboard is an interactive Power BI project desi
 
 🎛️ Dynamic Filters (Customer ID, Customer Name, Month, Year)
 
-📊 Dashboard KPIs
+
+📊 Dashboard KPIs :- 
 
 Total Sales : 2.3M
 
@@ -39,7 +41,8 @@ Total Discount : 10K
 
 Average Delivery Days : 4
 
-📈 Visualizations
+
+📈 Visualizations :-
 
 1)KPI Cards
 
@@ -57,9 +60,11 @@ Average Delivery Days : 4
 
 8)Segment-wise Sales (Pie Chart)
 
-9)Interactive Slicers
+9)Interactive Slicers 
 
-🛠️ Technologies Used
+
+🛠️ Technologies Used :-
+
 1)Microsoft Power BI
 
 2)Power Query
@@ -70,7 +75,9 @@ Average Delivery Days : 4
 
 5)Excel Dataset
 
-🎯 Business Objectives
+
+🎯 Business Objectives :-
+
 
 Monitor overall sales performance.
 
@@ -86,7 +93,9 @@ Analyze profit distribution across cities.
 
 Support business decisions using interactive dashboards.
 
-💡 Key Insights
+
+💡 Key Insights :-
+
 
 The West Region generated the highest sales.
 
@@ -98,7 +107,9 @@ The dashboard highlights the Top 5 and Bottom 5 products based on sales.
 
 Interactive filters allow analysis by customer, month, and year.
 
-📂 Skills Demonstrated
+
+📂 Skills Demonstrated :-
+
 
 Data Cleaning
 
@@ -111,6 +122,7 @@ DAX Calculations
 KPI Development
 
 Interactive Dashboard Design
+
 
 Screenshot :- 
 ![Super Store Sales Analysis](https://raw.githubusercontent.com/Prathmesh1112/SuperStore-Sales-Analysis/main/Screenshot%202026-08-02%20190241.png)
