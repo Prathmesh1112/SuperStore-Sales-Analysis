@@ -83,34 +83,34 @@ The Super Store Sales Analysis Dashboard is an interactive Power BI project desi
 🎯 Business Objectives :-
 
 
-Monitor overall sales performance.
+1) Monitor overall sales performance.
 
-Analyze regional and state-wise sales trends.
+2) Analyze regional and state-wise sales trends.
 
-Identify top-performing and low-performing products.
+3) Identify top-performing and low-performing products.
 
-Evaluate customer purchasing patterns.
+4) Evaluate customer purchasing patterns.
 
-Measure category and segment performance.
+5) Measure category and segment performance.
 
-Analyze profit distribution across cities.
+6) Analyze profit distribution across cities.
 
-Support business decisions using interactive dashboards.
+7) Support business decisions using interactive dashboards.
 
 
 
 💡 Key Insights :-
 
 
-The West Region generated the highest sales.
+1) The West Region generated the highest sales.
 
-Technology contributed the largest share of sales.
+2) Technology contributed the largest share of sales.
 
-Consumer was the highest-performing customer segment.
+3) Consumer was the highest-performing customer segment.
 
-The dashboard highlights the Top 5 and Bottom 5 products based on sales.
+4) The dashboard highlights the Top 5 and Bottom 5 products based on sales.
 
-Interactive filters allow analysis by customer, month, and year.
+5) Interactive filters allow analysis by customer, month, and year.
 
 
 
@@ -127,7 +127,6 @@ Interactive filters allow analysis by customer, month, and year.
 
 5) KPI Development
 
-Interactive Dashboard Design
 
 
 Screenshot :- 
