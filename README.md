@@ -117,15 +117,15 @@ Interactive filters allow analysis by customer, month, and year.
 📂 Skills Demonstrated :-
 
 
-Data Cleaning
+1) Data Cleaning
 
-Data Transformation
+2) Data Transformation
 
-Data Modeling
+3) Data Modeling
 
-DAX Calculations
+4) DAX Calculations
 
-KPI Development
+5) KPI Development
 
 Interactive Dashboard Design
 
